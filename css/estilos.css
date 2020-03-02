@@ -1,0 +1,27 @@
+body{
+	background: #3390ff;
+	color: white;
+}
+#contenedor{
+	width: 1000px;
+	margin: auto;
+	border: 1px solid black;
+	padding: 20px;
+	background: white;
+	color: black;
+}
+#contenedor header {
+	height: 110px;
+	background: #3390ff;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+}
+#contenedor header img {
+	float: left;
+}
+#contenedor footer {
+	background: #96b6c6;
+	text-align: center;
+	color: white;
+}
